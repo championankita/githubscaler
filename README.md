@@ -1,0 +1,2 @@
+# githubscaler
+Demo class
